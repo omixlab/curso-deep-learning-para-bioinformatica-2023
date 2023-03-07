@@ -16,11 +16,11 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
     
     [slides](https://docs.google.com/presentation/d/1eXvyRbIUKoxw9zMv-fcDHgrpa4NPBmymJ4qBHcV5aFQ/edit?usp=sharing)
 
-    gravação (em breve)
+    [gravação](https://drive.google.com/file/d/1dJ3z_zPqe_EGo_OwR6GX0Zy8-3D1c7Ah/view?usp=sharing)
 
 - **Aula 2. Introdução à linguagem de programação em Python e ao BioPython**
 
-    [notebook] (https://colab.research.google.com/drive/1PCDRpXX-_jXy9TMd26gV9W-7_49_nT0E?usp=sharing)
+    [notebook](https://colab.research.google.com/drive/1PCDRpXX-_jXy9TMd26gV9W-7_49_nT0E?usp=sharing)
 
     gravação (em breve)
 
