@@ -20,7 +20,7 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
 - **Aula 2. Introdução à linguagem de programação em Python e ao BioPython**
 
-    slides (em breve)
+    [notebook] (https://colab.research.google.com/drive/1PCDRpXX-_jXy9TMd26gV9W-7_49_nT0E?usp=sharing)
 
     gravação (em breve)
 
