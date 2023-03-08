@@ -22,11 +22,11 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
     [notebook](https://colab.research.google.com/drive/1PCDRpXX-_jXy9TMd26gV9W-7_49_nT0E?usp=sharing)
 
-    gravação (em breve)
+    [gravação](https://drive.google.com/file/d/1S6LbuulDwEaV7QEcUUJUvwhTZnhXV86F/view?usp=sharing)
 
 - **Aula 3. *machine learning* com Pandas e SciKit-Learn**
 
-    slides (em breve)
+    [notebook]([em breve](https://colab.research.google.com/drive/1oIvEDBqC06-AmvIE_yibxmC3pONJiwFm?usp=sharing))
 
     gravação (em breve)
 
