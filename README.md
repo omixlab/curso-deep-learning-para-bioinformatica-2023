@@ -26,7 +26,7 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
 - **Aula 3. *machine learning* com Pandas e SciKit-Learn**
 
-    [notebook]([em breve](https://colab.research.google.com/drive/1oIvEDBqC06-AmvIE_yibxmC3pONJiwFm?usp=sharing))
+    [notebook](https://colab.research.google.com/drive/1oIvEDBqC06-AmvIE_yibxmC3pONJiwFm?usp=sharing)
 
     gravação (em breve)
 
