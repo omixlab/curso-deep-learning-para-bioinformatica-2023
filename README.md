@@ -32,7 +32,7 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
 - **Aula 4. *deep learning* com Keras - parte I**
 
-    slides (em breve)
+    [notebok](https://colab.research.google.com/drive/1ACEa5cyuFRLV4x1_RFTkp7hd02ChqV5y?usp=sharing)
 
     gravação (em breve)
 
