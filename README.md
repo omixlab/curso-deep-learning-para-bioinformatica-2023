@@ -34,12 +34,12 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
     [notebok](https://colab.research.google.com/drive/1ACEa5cyuFRLV4x1_RFTkp7hd02ChqV5y?usp=sharing)
 
-    gravação (em breve)
+    [gravação](https://drive.google.com/file/d/1bAsJOX2tDg6Oa5mYa_CGTLPdexKrVTDG/view?usp=sharing)
 
 - **Aula 5. *deep learning* com Keras - parte II**
 
-    slides (em breve)
-
+    [notebook](https://colab.research.google.com/drive/1aBMYf_XYTtSDqKMcQU_j6QeWJ7kIZEG6?usp=sharing)
+    
     gravação (em breve)
 
 ## Video-chamada
