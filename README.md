@@ -40,7 +40,7 @@ Além disso, também fornecerá uma introdução à linguagem de programação P
 
     [notebook](https://colab.research.google.com/drive/1aBMYf_XYTtSDqKMcQU_j6QeWJ7kIZEG6?usp=sharing)
     
-    gravação (em breve)
+    [gravação](https://drive.google.com/file/d/1Te_sjUmCDRBYWrKHOruCcN6UF-rRk8Yy/view?usp=sharing)
 
 ## Video-chamada
 
