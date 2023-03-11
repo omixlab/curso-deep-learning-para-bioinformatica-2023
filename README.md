@@ -1,6 +1,6 @@
 # Deep Learing para Bioinformática
 
-O curso "*Deep Learing* para Bioinformática", ofertado pelo grupo de pesquisa [Omixlab](https://github.com/omixlab) da Universidade Federal de Pelotas, tem por objetivo:
+O curso ["*Deep Learing* para Bioinformática"](https://omixlab.github.io/curso-deep-learning-para-bioinformatica-2023/), ofertado pelo grupo de pesquisa [Omixlab](https://github.com/omixlab) da Universidade Federal de Pelotas, tem por objetivo:
 
 - Apresentar os principais conceitos sobre *machine learning* e, em particular, redes neurais;
 
